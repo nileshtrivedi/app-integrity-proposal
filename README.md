@@ -67,7 +67,7 @@ The end-users will then be able to exercise their choice by curating Certificate
 
 When visiting a new website or a new app, the browser or app store should clearly highlight the status and any conflict with users' stored preferences on each of these aspect.
 
-We recommend that browsers and operating yank those certificate authorities from their default trusted CA set which do not perform any checks beyond identity verification. These policies are critical important for the health of digital ecosystem and can no longer be ignored.
+We recommend that browsers and operating systems should yank those certificate authorities from their default trusted CA set which do not perform any checks beyond identity verification. These policies are critical important for the health of digital ecosystem and can no longer be ignored.
 
 A new app or website can begin and gradually implement good policies. Therefore, an app could evolve over time from using a self-signed certificate (for developer's own personal use) to a top-quality CA-signed certificate when it needs to reach wide adoption. Developers need to perform more third-party audits only when they want to reach more users.
 
