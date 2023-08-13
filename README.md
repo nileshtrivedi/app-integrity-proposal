@@ -57,13 +57,13 @@ The contents should look like:
 }
 ```
 
-The values of each property in the above JSON will be URLs pointing to latest digitally-signed machine-readable audit reports of each of the aspect by a third-party auditor. This is a proposal and a work-in-progress. Please [share your feedback]((https://github.com/nileshtrivedi/app-integrity-proposal))
+The values of each property in the above JSON will be URLs pointing to latest digitally-signed machine-readable audit reports of each of the aspect by a third-party auditor. This is a proposal and a work-in-progress. Please [share your feedback](https://github.com/nileshtrivedi/app-integrity-proposal).
 
 SSL certificate issuing authorities like Verisign or LetsEncrypt, when adopting our standard, should extract and evaluate these machine-readable user policies and the corresponding audit reports as a mandatory part of their certification workflow.
 
 The end-users will then be able to exercise their choice by curating Certificate Authorities from their trust store. This is already available in web browsers and operating systems.
 
-![certificate manager](https://docs.vmware.com/en/VMware-Adapter-for-SAP-Landscape-Management/2.1.0/Installation-and-Administration-Guide-for-VLA-Administrators/images/GUID-1FC4EFA4-4DAD-44B1-9E09-56783583589F-low.png)
+![certificate manager](https://user-images.githubusercontent.com/19304/260282584-7a328936-7fd7-4486-ac30-ca6639f2dc76.png)
 
 When visiting a new website or a new app, the browser or app store should clearly highlight the status and any conflict with users' stored preferences on each of these aspect.
 
