@@ -1,4 +1,4 @@
-# Website and App Integrity Certificate Proposal
+# Website and App Integrity Proposal
 
 Browsers and Operating Systems are [busy](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/) [shipping](https://github.com/RupertBenWiser/Web-Environment-Integrity) [client environment integrity](https://developer.android.com/google/play/integrity) [APIs](https://azure.microsoft.com/en-in/products/azure-attestation) that proclaim to protect the websites and apps from users (!!), who might want to install adblockers or browser extensions or jailbreak their OS. 
 
